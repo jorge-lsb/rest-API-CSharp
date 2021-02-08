@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ThDCzyXFdI7VbGYap2E3v7hIWQ+ApSYPJ+wWs9zkuILl7mrJemEOeoeq5WADroo+B1qjHdNZa2qLNLH6UUmuAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jorge.barbosa\\source\\repos\\RestApiModeloDDD\\RestApiModeloDDD.Domain.Services\\RestApiModeloDDD.Domain.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jorge.barbosa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jorge.barbosa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\jorge.barbosa\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\netstandard2.0\RestApiModeloDDD.Domain.Services.deps.json
+C:\Users\jorge.barbosa\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\netstandard2.0\RestApiModeloDDD.Domain.Services.dll
+C:\Users\jorge.barbosa\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\netstandard2.0\RestApiModeloDDD.Domain.Services.pdb
+C:\Users\jorge.barbosa\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\netstandard2.0\RestApiModeloDDD.Domain.Core.dll
+C:\Users\jorge.barbosa\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\netstandard2.0\RestApiModeloDDD.Domain.dll
+C:\Users\jorge.barbosa\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\netstandard2.0\RestApiModeloDDD.Domain.Core.pdb
+C:\Users\jorge.barbosa\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\netstandard2.0\RestApiModeloDDD.Domain.pdb
+C:\Users\jorge.barbosa\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\netstandard2.0\RestApiModeloDDD.Domain.Services.csprojAssemblyReference.cache
+C:\Users\jorge.barbosa\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\netstandard2.0\RestApiModeloDDD.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\jorge.barbosa\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\netstandard2.0\RestApiModeloDDD.Domain.Services.AssemblyInfo.cs
+C:\Users\jorge.barbosa\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\netstandard2.0\RestApiModeloDDD.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\jorge.barbosa\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\netstandard2.0\RestApiModeloDDD.Domain.Services.csproj.CopyComplete
+C:\Users\jorge.barbosa\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\netstandard2.0\RestApiModeloDDD.Domain.Services.dll
+C:\Users\jorge.barbosa\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\netstandard2.0\RestApiModeloDDD.Domain.Services.pdb
